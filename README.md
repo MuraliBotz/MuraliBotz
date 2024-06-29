@@ -39,5 +39,5 @@
 
 
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=CUTE-BACHHA&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/CUTE-BACHHA)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=MURALIBOTZ&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/MURALI)
 
