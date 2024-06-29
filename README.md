@@ -17,10 +17,14 @@
      <img align="middle" src="https://profile-counter.glitch.me/MURALIBOTZ/count.svg" />
 </p>
 
-<h1>ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs 𝑴𝑼𝑹𝑨𝑳𝑰 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
-
+If You 
 <p align="center">
-  <a href="https://t.me/MURALIBOTZ"><img src="https://telegra.ph/file/cfbe757c195aba1a1071e.jpg"></a>
+  <a href="https://muraliBotz.github.io">
+    <img src="https://img.shields.io/badge/Know%20more%20about%20me-007BFF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Know more about me">
+  </a>
+</p>
+<p align="center">
+  <a href="https://t.me/MURALIBOTZ"><img src="https://telegra.ph/file/006a5a6d72eb8915514a6.jpg"></a>
     </p>
 <p align="center">
 
