@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://muraliBotz.github.io">
-    <img src="https://img.shields.io/badge/Know%20more%20about%20me-007BFF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Click Here">
+    <img src="https://img.shields.io/badge/click%20me-007BFF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Click Here">
   </a>
 </p>
 <p align="center">
