@@ -1,0 +1,32 @@
+name: Update Commit Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Calculate Total Commits
+        id: commits
+        run: |
+          TOTAL_COMMITS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/${{ github.repository_owner }}/repos" | jq '.[].name' | xargs -I{} curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/${{ github.repository_owner }}/{}"/contributors | jq --arg login "${{ github.repository_owner }}" '.[] | select(.login == $login) | .contributions' | jq -s 'add')
+          echo "::set-output name=total_commits::$TOTAL_COMMITS"
+
+      - name: Update Badge
+        run: |
+          echo "Total Commits: ${{ steps.commits.outputs.total_commits }}" > commit_count.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add commit_count.txt
+          git commit -m "Update commit badge"
+          git push
+
