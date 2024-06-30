@@ -43,5 +43,5 @@
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MURALIBOTZ&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/MURALIBotz)
 
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliBotz&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/MURALIBotz)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliBotz&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 95%;">](https://github.com/MURALIBotz)
 
