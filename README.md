@@ -9,7 +9,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MuraliBotz&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=MuraliBotz+Github+Stats&include_all_commits=true&hide_border=true&bg_color=000000" style="width: 98%;">](https://github.com/MURALIBOTZ)
+[<img src="https://github-readme-stats.vercel.app/api?username=MuraliBotz&include_all_commits=true&theme=aura" style="width: 98%;">](https://github.com/MURALIBOTZ)
+
 
 
 <p align="center">
@@ -39,5 +40,8 @@
 
 
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=MURALIBOTZ&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/MURALI)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=MURALIBOTZ&theme=chartreuse-dark&hide_border=True&bg_color=000000" style="width: 98%;">](https://github.com/MURALIBotz)
+
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliBotz&size_weight=0.0005&count_weight=0.5&layout=compact&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/MURALIBotz)
 
