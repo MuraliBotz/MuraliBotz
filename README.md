@@ -26,7 +26,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://t.me/MURALIBOTZ"><img src="https://telegra.ph/file/006a5a6d72eb8915514a6.jpg"></a>
+  <a href="https://t.me/MURALIBOTZ"><img src="https://telegra.ph/file/9710d570029cb4aaecb50.jpg"></a>
     </p>
 <p align="center">
 
