@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MuraliBotz&include_all_commits=true&theme=aura" style="width: 98%;">](https://github.com/MURALIBOTZ)
+[<img src="https://github-readme-stats.vercel.app/api?username=MuraliBotz&show_icons=true&theme=vision-friendly-dark" style="width: 98%;">](https://github.com/MURALIBOTZ)
 
 
 
