@@ -18,7 +18,17 @@
      <img align="middle" src="https://profile-counter.glitch.me/MURALIBOTZ/count.svg" />
 </p>
 
-ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ
+
+# 🌟 About Me
+
+Hello! I'm **Murali** 👋, a passionate 16-year-old from the vibrant state of **Karnataka** 🌻. I'm on a journey to explore the world of coding, and while I'm not a pro coder yet, I'm learning every day! 
+
+I have a love for **Python**, **HTML**, **CSS**, and **JavaScript** 🖥️. My favorite part? Creating stunning **neon-type websites** that light up the digital world! 🌈✨
+
+Join me as I continue to grow and create in this amazing tech universe! 🚀
+
+
+If You Want to know more about me Click The Below Button 
 
 <p align="center">
   <a href="https://muraliBotz.github.io">
