@@ -103,21 +103,10 @@ An AI-powered platform offering smart automation tools and interactive AI utilit
 
 ## 📊 GitHub Stats  
 
-<p align="center">  
-  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/overview.svg" width="100%" alt="GitHub stats">  
-</p>  
-  
-  
-  
-  
-<p align="center">  
-  <img src="https://github.com/Itz-Murali/My-Git-Stats/blob/master/generated/languages.svg" width="95%" alt="Top Languages">  
-</p>  
+
    
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Itz-Murali&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="650"/>
-</p>
+![Itz-Murali's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=neon_dreams&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers)
 
 ---
 
