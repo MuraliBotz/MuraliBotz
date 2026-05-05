@@ -105,8 +105,10 @@ An AI-powered platform offering smart automation tools and interactive AI utilit
 
 
    
+<p align="center">
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=neon_dreams&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers" />
+</p>
 
-![Itz-Murali's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=neon_dreams&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers)
 
 ---
 
