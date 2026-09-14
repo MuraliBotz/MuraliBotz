@@ -1,99 +1,58 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=𝐌%20𝐔%20𝐑%20𝚨%20𝐋%20𝐈&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=180&section=header&text=𝐌%20𝐔%20𝐑%20𝚨%20𝐋%20𝐈&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Code%20%7C%20Create%20%7C%20Conquer&descAlignY=58&descSize=18"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+Magical+World!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Let's+Create+Something+Extraordinary!+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=✨+Welcome+To+My+Digital+Universe!+✨;💻+Turning+Caffeine+Into+Code+Every+Day;🚀+Building+The+Web%2C+One+Commit+At+A+Time;🌌+Curiosity+Driven+%7C+Code+Powered"/>
 </div>
 
-
-
 <p align="center">
-<img src="https://itz-murali-images.vercel.app/api" width="350" height="350" alt="profile picture" />
+  <img src="https://itz-murali-images.vercel.app/api" width="320" height="320" alt="profile picture" style="border-radius: 50%"/>
 </p>
 
----
-## 👋 Hey, I'm Murali  
-
-A curious **student from Karnataka 🇮🇳** who enjoys building things on the web.  
-I like experimenting, breaking stuff, fixing it again, and learning something new every time 😄  
-
-💡 I mostly work on:
-- Interactive & clean frontend websites  
-- Small but useful web tools  
-- Bots, scripts, and API-based projects  
-
-🧠 I believe in:
-- Learning by doing  
-- Keeping projects unique and modern style 
-- Improving step by step, not overnight  
-
-🛠️ **Tech I often use:**  
-Python • HTML • CSS • JavaScript • TypeScript • React 
-
-🎯 **Currently focusing on:**  
-Sharpening my skills, building more projects, and becoming best like no one ever was
-
-📌 *Status:* OFFLINE 🔻
-
-
-<p align="center">
+<div align="center">
   <a href="https://itz-Murali.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-ff00cc?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
-</p>
+  <img src="https://img.shields.io/badge/Status-Online%20%26%20Building-00ccff?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Itz-Murali&label=Visitors&color=0078D4&style=for-the-badge" />
+</div>
 
 ---
 
-## 🌐 My Top Projects
+## 🌟 About Me
 
-<table>
-<tr>
+Hey there! I'm **Murali** — a self-taught developer and lifelong learner from **Karnataka, India 🇮🇳** i fell in love with building things on the internet.
 
-<td align="center" width="50%">
+I don't just write code — I **experiment, break, rebuild, and repeat** until it feels right. Every bug I squash teaches me something new, and every project I ship makes me a little sharper than yesterday.
 
-<img src="src/chiku.png" width="120">
-
-
-
-<p>
-A modern web-based music player that lets users stream and enjoy songs smoothly with a clean UI.
-</p>
-
-<a href="https://Chiku-music.com/">
-<img src="https://img.shields.io/badge/Visit-Chiku_Music-blue?style=for-the-badge&logo=google-chrome">
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="src/main.jpg" width="120">
+- 📍 **Location:** Karnataka, India
+- 🎓 **Role:** Student • Developer • Problem Solver
+- 🧭 **Mindset:** Learn by doing, ship by iterating
 
 
+**💡 What I Build**
+- 🎨 Clean, interactive & modern frontend experiences
+- 🧰 Small but mighty web tools that solve real problems
+- 🤖 Bots, scripts, and API-driven projects
+- 🫂 Contribute to open source projects 
 
-<p>
-An AI-powered platform offering smart automation tools and interactive AI utilities.
+**🧠 My Philosophy**
+- Learn by doing — tutorials are just the beginning
+- Style matters — code should look as good as it works
+- Progress > Perfection — one step at a time
+- Stay curious — the best devs never stop asking "why?"
 
-</p>
+**🛠️ Tech Arsenal**
+`Python` • `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Tailwind`
 
-<a href="https://Chiku-ai.com/">
-<img src="https://img.shields.io/badge/Visit-Chiku_AI-blue?style=for-the-badge&logo=google-chrome">
-</a>
+**🎯 Current Mission**
+Leveling up my skills, launching more projects, and becoming the very best — like no one ever was. ⚡
 
-</td>
-
-</tr>
-</table>
 
 ---
 
-
-
-
-## ⚙️ Tech Skills  
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,ruby,rust,swift,mongo,tailwind,vscode&theme=dark"/>
@@ -101,31 +60,31 @@ An AI-powered platform offering smart automation tools and interactive AI utilit
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-
-   
 <p align="center">
   <img src="https://anya-github-stats.vercel.app/api/stats?username=Itz-Murali&theme=neon_dreams&border_radius=14&hide=prs%2Cissues%2Creviews%2Cgists%2Cwatchers" />
 </p>
 
+---
+
+## 💬 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://anya-quote-api.vercel.app/" alt="Random Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://itz-murali-images.vercel.app/gif?t=123" alt="random gif"/>
+</p>
 
 ---
 
-## 👀 Profile Visitors  
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itz-Murali&label=Visitors&color=0078D4&style=for-the-badge" width="180" />
+  <i>"First, solve the problem. Then, write the code."</i><br/>
+  <b>— Thanks for stopping by. Let's build something extraordinary. 🚀</b>
 </p>
 
-
-<p align="center">
-  <img src="https://itz-murali-images.vercel.app/gif?t=123" alt="random gif" />
-</p>
-
-<p align="center">
-<img src="https://meera-quote-api.vercel.app/" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff00cc&height=120&section=footer"/>
 </p>
