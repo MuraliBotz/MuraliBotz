@@ -71,7 +71,7 @@ Leveling up my skills, launching more projects, and becoming the very best — l
 ## 💬 Random Dev Wisdom
 
 <p align="center">
-  <img src="https://anya-quote-api.vercel.app/" alt="Random Quote"/>
+  <img src="https://codequote.vercel.app/api/quote.svg" alt="Random Quote"/>
 </p>
 
 <p align="center">
